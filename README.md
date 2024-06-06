@@ -1,5 +1,16 @@
-¡# Proyect 6
+Proyect 6
+=================
 
+
+You Will need
+==================
+Necesitas tener instalados los paquetes Install pytest and request packages to execute the required tests
+
+Execute all test with the command: pytest
+
+
+Explanation
+=================
 In this project you will find 9 test automatized to test the NAME field on the CREATION KIT TEST.
 
 This we Will be testing 9 diferent scenarios that were requested by the client:
@@ -30,7 +41,7 @@ On the FAILED section we got: 3, 4 and 9 seemingly they are showing 201 code, wh
 
 The side scenario is number 8, which is showing 500 error, more related to the server response, but it needs to be CHECK OUT and verified to share the correct output to the USER.
 
-================
+
 CONCLUSION
 ================
 
